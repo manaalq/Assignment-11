@@ -102,7 +102,7 @@ totalhour+=hour;
 });
 double gpa = totalPoints / totalhour;
 return (gpa / 100) * 5;
-
+hhhhdd
 }*/
 
 double gpa(Map<String, int> subjectGrade, Map<String, int> gpaHour) {
